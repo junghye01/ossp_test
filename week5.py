@@ -3,3 +3,5 @@ school=input('학교 입력: ')
 
 print('<출력>')
 print(name)
+
+#추가추가
